@@ -34,6 +34,7 @@
     {"name":"o_bloc_casier_4","order":44,"path":"objects/o_bloc_casier_4/o_bloc_casier_4.yy",},
     {"name":"O_bloc_chambre","order":99,"path":"objects/O_bloc_chambre/O_bloc_chambre.yy",},
     {"name":"O_bloc_coin","order":97,"path":"objects/O_bloc_coin/O_bloc_coin.yy",},
+    {"name":"O_bloc_fin","order":106,"path":"objects/O_bloc_fin/O_bloc_fin.yy",},
     {"name":"O_bloc_fusee_info","order":94,"path":"objects/O_bloc_fusee_info/O_bloc_fusee_info.yy",},
     {"name":"O_bloc_garage","order":102,"path":"objects/O_bloc_garage/O_bloc_garage.yy",},
     {"name":"O_bloc_ifno_gen","order":95,"path":"objects/O_bloc_ifno_gen/O_bloc_ifno_gen.yy",},

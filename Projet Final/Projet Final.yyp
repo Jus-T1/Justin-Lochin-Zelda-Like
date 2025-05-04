@@ -53,6 +53,7 @@
     {"id":{"name":"o_bloc_casier_4","path":"objects/o_bloc_casier_4/o_bloc_casier_4.yy",},},
     {"id":{"name":"O_bloc_chambre","path":"objects/O_bloc_chambre/O_bloc_chambre.yy",},},
     {"id":{"name":"O_bloc_coin","path":"objects/O_bloc_coin/O_bloc_coin.yy",},},
+    {"id":{"name":"O_bloc_fin","path":"objects/O_bloc_fin/O_bloc_fin.yy",},},
     {"id":{"name":"O_bloc_fusee_info","path":"objects/O_bloc_fusee_info/O_bloc_fusee_info.yy",},},
     {"id":{"name":"O_bloc_garage","path":"objects/O_bloc_garage/O_bloc_garage.yy",},},
     {"id":{"name":"O_bloc_ifno_gen","path":"objects/O_bloc_ifno_gen/O_bloc_ifno_gen.yy",},},
